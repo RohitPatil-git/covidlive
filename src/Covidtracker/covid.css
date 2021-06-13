@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=PT+Serif&display=swap");
+* {
+  font-family: "PT Serif", serif;
+  margin: 0;
+  padding: 0;
+}
+.h2style {
+  text-align: center;
+  padding: 10px;
+  background-color: red;
+  color: white;
+  font-size: 4vw;
+}
+.cardgroup {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.cardstyle {
+  margin: 2rem;
+  color: white;
+}
+
+.black {
+  background-color: black;
+}
+
+.footer {
+  background-color: red;
+  color: white;
+  padding: 8px;
+  margin-top: 10px;
+  text-align: center;
+  font-size: 1.5vw;
+
+}
+
+
+
+.cardheader {
+  font-size: 2.5em;
+  text-align: center;
+}
+
+.titlestyle {
+  font-size: 4vw;
+  text-align: center;
+}
+
+
+/* mid container styling */
+.mid-container{
+  background-color: #3B5367;
+  height: 80vh;
+}
+
+.h3style{
+  text-align: center;
+  color: #F1F6F7;
+  padding-top: 20px;
+  font-size: 3vw;
+}
+
+.searchbox{
+ 
+  position: absolute;
+  top: 110%;
+  left: 40%;
+  
+}
